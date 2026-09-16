@@ -14,10 +14,13 @@
 
 ## 📌 Proyectos destacados
 
-- Sistema de gestión de turnos en Python
-- Simuladores interactivos y validación de datos
-- Ejercicios con listas, matrices y algoritmos
-- Proyectos académicos de Programación I
+- [Programación 1 - Python](https://github.com/ledda-prog/programacion-1-python)  
+  Ejercicios, prácticas y proyectos académicos desarrollados en Python durante Programación I.
+
+- [Organización Empresarial](https://github.com/ledda-prog/organizacion-empresarial)  
+  Trabajos académicos relacionados con Git, metodologías ágiles y herramientas digitales.
+
+  docs: agrega enlaces a proyectos destacados
 
 ## 🛠 Tecnologías
 
