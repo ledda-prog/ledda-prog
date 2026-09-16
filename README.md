@@ -27,7 +27,3 @@ Python · SQL · HTML · CSS · Git · GitHub
 
 - Email: leddaignacioprog@gmail.com
 - GitHub: @ledda-prog
-
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ledda-prog&theme=nightowl)](https://git.io/streak-stats)
