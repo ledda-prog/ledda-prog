@@ -17,7 +17,7 @@
 
 ## 🛠 Tecnologías
 
-Python · SQL · HTML · CSS · Git · GitHub
+Python · Git · GitHub
 
 ## 📫 Contacto
 
