@@ -20,7 +20,6 @@
 - [Organización Empresarial](https://github.com/ledda-prog/organizacion-empresarial)  
   Trabajos académicos relacionados con Git, metodologías ágiles y herramientas digitales.
 
-  docs: agrega enlaces a proyectos destacados
 
 ## 🛠 Tecnologías
 
