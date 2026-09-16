@@ -25,7 +25,7 @@ Python · SQL · HTML · CSS · Git · GitHub
 
 ## 📫 Contacto
 
-- Email: leddaigancio@gmail.com
+- Email: leddaignacioprog@gmail.com
 - GitHub: @ledda-prog
 
 ### GitHub Stats
