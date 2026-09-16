@@ -4,8 +4,6 @@
 
 💻 Actualmente enfocado en:
 - Python
-- SQL
-- HTML y CSS
 - Git y GitHub
 - Desarrollo Web
 - Lógica de programación y estructuras de datos
